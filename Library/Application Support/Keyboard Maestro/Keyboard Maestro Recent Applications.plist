@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.jetbrains.goland</string>
+		<key>Name</key>
+		<string>GoLand</string>
+		<key>NewFile</key>
+		<string>~/Library/Application Support/JetBrains/Toolbox/apps/Goland/ch-0/192.6817.25/GoLand.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.termius-dmg.mac</string>
+		<key>Name</key>
+		<string>Termius</string>
+		<key>NewFile</key>
+		<string>/Applications/Termius.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>org.pqrs.Karabiner-Elements.Preferences</string>
+		<key>Name</key>
+		<string>Karabiner-Elements</string>
+		<key>NewFile</key>
+		<string>/Applications/Karabiner-Elements.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.systempreferences</string>
+		<key>Name</key>
+		<string>系统偏好设置</string>
+		<key>NewFile</key>
+		<string>/System/Applications/System Preferences.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.netease.163music</string>
+		<key>Name</key>
+		<string>网易云音乐</string>
+		<key>NewFile</key>
+		<string>/Applications/NeteaseMusic.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.finder</string>
+		<key>Name</key>
+		<string>访达</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Finder.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.google.Chrome</string>
+		<key>Name</key>
+		<string>Google Chrome</string>
+		<key>NewFile</key>
+		<string>/Applications/Google Chrome.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>5ZSL2CJU2T.com.dingtalk.mac</string>
+		<key>Name</key>
+		<string>钉钉</string>
+		<key>NewFile</key>
+		<string>/Applications/DingTalk.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.eusoft.eudic</string>
+		<key>Name</key>
+		<string>欧路词典</string>
+		<key>NewFile</key>
+		<string>/Applications/Eudic.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.microsoft.VSCode</string>
+		<key>Name</key>
+		<string>Visual Studio Code</string>
+		<key>NewFile</key>
+		<string>/Applications/Visual Studio Code.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.googlecode.iterm2</string>
+		<key>Name</key>
+		<string>iTerm</string>
+		<key>NewFile</key>
+		<string>/Applications/iTerm.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.mail</string>
+		<key>Name</key>
+		<string>邮件</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Mail.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.archiveutility</string>
+		<key>Name</key>
+		<string>归档实用工具</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Applications/Archive Utility.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.TextEdit</string>
+		<key>Name</key>
+		<string>文本编辑</string>
+		<key>NewFile</key>
+		<string>/System/Applications/TextEdit.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.kingsoft.wpsoffice.mac</string>
+		<key>Name</key>
+		<string>WPS Office</string>
+		<key>NewFile</key>
+		<string>/Applications/wpsoffice.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.AppStore</string>
+		<key>Name</key>
+		<string>App Store</string>
+		<key>NewFile</key>
+		<string>/System/Applications/App Store.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Preview</string>
+		<key>Name</key>
+		<string>预览</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Preview.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Terminal</string>
+		<key>Name</key>
+		<string>终端</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/Terminal.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.iWork.Keynote</string>
+		<key>Name</key>
+		<string>Keynote 讲演</string>
+		<key>NewFile</key>
+		<string>/Applications/Keynote.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>org.pqrs.Karabiner-EventViewer</string>
+		<key>Name</key>
+		<string>Karabiner-EventViewer</string>
+		<key>NewFile</key>
+		<string>/Applications/Karabiner-EventViewer.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.xk72.Charles</string>
+		<key>Name</key>
+		<string>Charles</string>
+		<key>NewFile</key>
+		<string>/Applications/Charles.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.ActivityMonitor</string>
+		<key>Name</key>
+		<string>活动监视器</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/Activity Monitor.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>org.pqrs.ShowyEdge-Preferences</string>
+		<key>Name</key>
+		<string>ShowyEdge Preferences</string>
+		<key>NewFile</key>
+		<string>/Applications/ShowyEdge.app/Contents/Applications/ShowyEdge Preferences.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.jetbrains.goland</string>
+		<key>Name</key>
+		<string>GoLand</string>
+		<key>NewFile</key>
+		<string>~/Library/Application Support/JetBrains/Toolbox/apps/Goland/ch-0/192.5728.103/GoLand.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.SystemProfiler</string>
+		<key>Name</key>
+		<string>系统信息</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/System Information.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Safari</string>
+		<key>Name</key>
+		<string>Safari浏览器</string>
+		<key>NewFile</key>
+		<string>/Applications/Safari.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.SetupAssistant</string>
+		<key>Name</key>
+		<string>设置助理</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Setup Assistant.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.core.kg</string>
+		<key>Name</key>
+		<string>CORE Keygen</string>
+		<key>NewFile</key>
+		<string>~/Downloads/Compressed/12637113_Paddle Generic KeyfileGen 2.3/CORE Keygen.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.teamviewer.TeamViewer</string>
+		<key>Name</key>
+		<string>TeamViewer</string>
+		<key>NewFile</key>
+		<string>/Applications/TeamViewer.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.ScreenSharing</string>
+		<key>Name</key>
+		<string>屏幕共享</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Applications/Screen Sharing.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.vmware.fusion</string>
+		<key>Name</key>
+		<string>VMware Fusion</string>
+		<key>NewFile</key>
+		<string>/Applications/VMware Fusion.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.airport.airportutility</string>
+		<key>Name</key>
+		<string>AirPort实用工具</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/AirPort Utility.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Photos</string>
+		<key>Name</key>
+		<string>照片</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Photos.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Music</string>
+		<key>Name</key>
+		<string>音乐</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Music.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.stairways.keyboardmaestro.editor</string>
+		<key>Name</key>
+		<string>Keyboard Maestro</string>
+		<key>NewFile</key>
+		<string>/Applications/Keyboard Maestro.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>org.pqrs.Karabiner-MultitouchExtension</string>
+		<key>Name</key>
+		<string>Karabiner-MultitouchExtension</string>
+		<key>NewFile</key>
+		<string>/Library/Application Support/org.pqrs/Karabiner-Elements/Karabiner-MultitouchExtension.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Dictionary</string>
+		<key>Name</key>
+		<string>词典</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Dictionary.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.tencent.xinWeChat</string>
+		<key>Name</key>
+		<string>微信</string>
+		<key>NewFile</key>
+		<string>/Applications/WeChat.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.audio.AudioMIDISetup</string>
+		<key>Name</key>
+		<string>音频MIDI设置</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/Audio MIDI Setup.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Installer-Progress</string>
+		<key>Name</key>
+		<string>Installer Progress</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Installer Progress.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.keychainaccess</string>
+		<key>Name</key>
+		<string>钥匙串访问</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/Keychain Access.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.manytricks.Moom</string>
+		<key>Name</key>
+		<string>Moom</string>
+		<key>NewFile</key>
+		<string>/Applications/Moom.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.amazon.Kindle</string>
+		<key>Name</key>
+		<string>Kindle</string>
+		<key>NewFile</key>
+		<string>/Applications/Kindle.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.wifi.diagnostics</string>
+		<key>Name</key>
+		<string>无线诊断</string>
+		<key>NewFile</key>
+		<string>/System/Library/CoreServices/Applications/Wireless Diagnostics.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>at.obdev.LaunchBar.ActionEditor</string>
+		<key>Name</key>
+		<string>Action Editor</string>
+		<key>NewFile</key>
+		<string>/Applications/LaunchBar.app/Contents/Resources/Action Editor.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.kapeli.dashdoc</string>
+		<key>Name</key>
+		<string>Dash</string>
+		<key>NewFile</key>
+		<string>/Applications/Dash.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.iWork.Pages</string>
+		<key>Name</key>
+		<string>Pages 文稿</string>
+		<key>NewFile</key>
+		<string>/Applications/Pages.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.ScriptEditor2</string>
+		<key>Name</key>
+		<string>脚本编辑器</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Utilities/Script Editor.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>com.apple.Automator</string>
+		<key>Name</key>
+		<string>自动操作</string>
+		<key>NewFile</key>
+		<string>/System/Applications/Automator.app</string>
+	</dict>
+	<dict>
+		<key>BundleIdentifier</key>
+		<string>at.obdev.LaunchBar</string>
+		<key>Name</key>
+		<string>LaunchBar</string>
+		<key>NewFile</key>
+		<string>/Applications/LaunchBar.app</string>
+	</dict>
+</array>
+</plist>
